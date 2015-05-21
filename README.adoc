@@ -1,0 +1,14 @@
+docker-ubuntu-oracle-jdk8
+=========================
+
+Base docker image with Ubuntu 14.04 and Oracle JDK 8
+
+Usage
+-----
+
+To create the image `ubuntu-oracle-jdk8`, execute the following command:
+
+	docker build -t ubuntu-oracle-jdk8 .
+
+
+
